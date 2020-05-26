@@ -12,3 +12,5 @@ https://NIKO09ES.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Nicolas Esquivel
+
+# Run Buddy Inc.
